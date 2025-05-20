@@ -36,10 +36,15 @@ jupyter notebook house_price.ipynb
 
 2)Follow the sections:
 	Load and clean the data.
+
 	Perform EDA.
+
 	Apply transformations and feature engineering
+
 	Train ML models
+
 	Predict house prices
+    
 	Modify the input features to test predictions on custom data.
 
 ## 🧠 Code Overview
