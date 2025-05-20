@@ -33,9 +33,10 @@ jupyter notebook house_price.ipynb
 ```
 ## 🚀 Usage
 1)Launch the notebook.
+
 2)Follow the sections:
-	Load and clean the data
-	Perform EDA
+	Load and clean the data.
+	Perform EDA.
 	Apply transformations and feature engineering
 	Train ML models
 	Predict house prices
