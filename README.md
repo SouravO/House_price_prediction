@@ -28,9 +28,9 @@ cd house-price-prediction
 ```
 
 2)Open the notebook:
-
+```bash
 jupyter notebook house_price.ipynb
-
+```
 ## 🚀 Usage
 1)Launch the notebook.
 2)Follow the sections:
