@@ -27,7 +27,7 @@ git clone https://github.com/your-username/house-price-prediction.git
 cd house-price-prediction
 ```
 
-2) Open the notebook:
+2)Open the notebook:
 
 jupyter notebook house_price.ipynb
 
