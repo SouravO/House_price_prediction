@@ -1,0 +1,12 @@
+prefix=e:/AI/EtoE/venv/Library
+exec_prefix=e:/AI/EtoE/venv/Library
+libdir=e:/AI/EtoE/venv/Library/lib
+includedir=e:/AI/EtoE/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.4
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 
